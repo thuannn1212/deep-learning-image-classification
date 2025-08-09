@@ -61,9 +61,5 @@ After execution, the system outputs:
 Below is an example output showing detection and recognition:
 <img width="449" height="299" alt="image" src="https://github.com/user-attachments/assets/c13cf1d9-b88a-4e17-81e6-a376cf8dfa5f" />
 
-## Repository Structure
-.
-├── DEEP_LEARNING_Code_in_facial_recognition.ipynb  # Main code
-├── example_output.png                              # Example result visualization
-└── README.md                                       # Project documentation
+## That is also the end of this project! Thank you for reading till the end.
 
